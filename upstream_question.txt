@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The upstream remote generally refers to the original repository when working on a forked repository. This helps keep track of where the original repository was forked from.
