@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git clone creates a complete copy of a remote in the local directory. It creates a new folder for the repository, initializes a git repository a, creates an origin remote using the clones url and downloads all files and commits.
