@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a different version of the repository which can be updated and amended in parallel to the master version of the files
